@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eric Stotts Architect]]></title>
+        <description><![CDATA[Eric Stotts Architect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 01:09:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bf616e7-7ff6-41a4-91e1-4b81c6ceb25d.jpg">]]></description>
+            <link>undefinederic-stotts-architect-works-past-present-and-future/index.html</link>
+            <guid isPermaLink="false">b78aea6e-94c7-4f5e-8fe0-5ab671b97a00</guid>
+            <pubDate>Sun, 13 Mar 2016 01:09:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
